@@ -1,0 +1,92 @@
+[
+  {
+    "Clan": {
+      "ProjektId": 2,
+      "Id": 2,
+      "Ime": "Filip",
+      "Prezime": "Horvat",
+      "OIB": "08975621289"
+    },
+    "ClanId": 2,
+    "Id": 1,
+    "Naziv": "Gather information",
+    "Opis": "Conduct baseline survey of households and businesses",
+    "Period": "Prosinac",
+    "ProjektId": 2
+  },
+  {
+    "Id": 2,
+    "Naziv": "Deliver information",
+    "Opis": "Prepare and deliver public information and awareness program",
+    "Period": "Sijecanj",
+    "ProjektId": 2,
+    "ClanId": 1,
+    "Clan"  : {
+      "ProjektId": 1,
+      "Id": 1,
+      "Ime": "Karla",
+      "Prezime": "Majer",
+      "OIB": "50200069100"
+    }
+  },
+  {
+    "Id": 3,
+    "Naziv": "Rusenje krova",
+    "Opis": "Potpuna promjena krova skole",
+    "Period": "Svibanj-Rujan",
+    "ProjektId": 1,
+    "ClanId": 1,
+    "Clan": {
+      "ProjektId": 1,
+      "Id": 1,
+      "Ime": "Karla",
+      "Prezime": "Majer",
+      "OIB": "50200069100"
+    }
+  },
+  {
+    "Id": 4,
+    "Naziv": "Otvaranje studenskog doma",
+    "Opis": "Studenski dom se otvara za studente",
+    "Period": "28.9.2021.",
+    "ProjektId": 3,
+    "ClanId": 3,
+    "Clan": {
+      "ProjektId": 3,
+      "Id": 3,
+      "Ime": "Karla",
+      "Prezime": "Paskal",
+      "OIB": "26990959359"
+    }
+  },
+  {
+    "Id": 5,
+    "Naziv": "Interijer",
+    "Opis": "Potpuno uredivanje studenskih prostorija",
+    "Period": "1.7.2021",
+    "ProjektId": 3,
+    "ClanId": 4,
+    "Clan": {
+      "ProjektId": 3,
+      "Id": 4,
+      "Ime": "Valentin",
+      "Prezime": "Predrag",
+      "OIB": "97692246159"
+    }
+  },
+  {
+    "Id": 6,
+    "Naziv": "test",
+    "Opis": "test",
+    "Period": "3",
+    "ProjektId": 3,
+    "ClanId": 4,
+    "Clan": {
+      "ProjektId": 3,
+      "Id": 4,
+      "Ime": "Valentin",
+      "Prezime": "Predrag",
+      "OIB": "97692246159"
+    }
+  }
+]

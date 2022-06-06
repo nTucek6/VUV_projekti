@@ -1,0 +1,38 @@
+[
+  {
+    "AktivnostP": null,
+    "ClanoviProjekta": null,
+    "ID": 1,
+    "Lokacija": null,
+    "LokacijaID": 1,
+    "Naziv": "Obnova osnovne skole Ivana Nepomuka Jemersica",
+    "Nositelj": "Grad Grubisno Polje",
+    "Status": "Aktivan",
+    "Voditelj": "Vladimir Turk",
+    "Vrijednost": 500000.0
+  },
+  {
+    "ID": 2,
+    "Naziv": "Improving Eco-System of Riverine and Health of community Living around the River",
+    "Nositelj": "Earl S. Hall",
+    "Voditelj": "Charles R. Thomas",
+    "Status": "Aktivan",
+    "Vrijednost": 100000.0,
+    "LokacijaID": 2,
+    "ClanoviProjekta": null,
+    "Lokacija": null,
+    "AktivnostP": null
+  },
+  {
+    "ID": 3,
+    "Naziv": "Izgradnja studenskog doma",
+    "Nositelj": "Grad Virovitica",
+    "Voditelj": "test",
+    "Status": "Aktivan",
+    "Vrijednost": 1000000.0,
+    "LokacijaID": 3,
+    "ClanoviProjekta": null,
+    "Lokacija": null,
+    "AktivnostP": null
+  }
+]

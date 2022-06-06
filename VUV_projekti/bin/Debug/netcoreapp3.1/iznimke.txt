@@ -1,0 +1,77 @@
+Input string was not in a correct format. - 30.5.2021. 18:27:50
+Uneseni oib se sastoji od 11 znamenki! - 30.5.2021. 18:27:58 - 30.5.2021. 18:27:58
+Uneseni oib se sastoji od 11 znamenki! - 30.5.2021. 18:28:19 - 30.5.2021. 18:28:19
+Uneseni oib se sastoji od 11 znamenki! - 30.5.2021. 18:29:12
+Uneseni string je prazan! - 30.5.2021. 18:39:54
+Input string was not in a correct format. - 31.5.2021. 0:00:32
+Input string was not in a correct format. - 31.5.2021. 0:27:15
+NE postoji jos ni jedan clan odabranog projekta! - 31.5.2021. 0:56:17
+Uneseni string je prazan! - 1.6.2021. 12:44:19
+Uneseni oib se sastoji od 11 znamenki! - 1.6.2021. 12:44:26
+Pogresan odabir broja! - 1.6.2021. 15:06:33
+Input string was not in a correct format. - 1.6.2021. 15:06:37
+NE postoji jos ni jedan clan odabranog projekta! - 1.6.2021. 15:07:31
+NE postoji jos ni jedan clan odabranog projekta! - 1.6.2021. 15:08:42
+NE postoji jos ni jedan clan odabranog projekta! - 1.6.2021. 15:09:30
+Input string was not in a correct format. - 1.6.2021. 15:10:29
+NE postoji jos ni jedan clan odabranog projekta! - 1.6.2021. 15:10:49
+Input string was not in a correct format. - 1.6.2021. 15:26:25
+Input string was not in a correct format. - 8.6.2021. 11:29:47
+Input string was not in a correct format. - 8.6.2021. 11:31:33
+The number columns in the row (6) does not match the values (1 - 8.6.2021. 11:31:35
+The number columns in the row (7) does not match the values (5 - 8.6.2021. 15:26:57
+Input string was not in a correct format. - 15.6.2021. 14:23:29
+Input string was not in a correct format. - 15.6.2021. 14:28:16
+The number columns in the row (5) does not match the values (6 - 19.6.2021. 13:27:42
+Please set the columns first - 19.6.2021. 14:08:24
+The number columns in the row (6) does not match the values (1 - 19.6.2021. 14:08:48
+Input string was not in a correct format. - 19.6.2021. 14:27:11
+NE postoji jos ni jedan clan odabranog projekta! - 19.6.2021. 14:27:19
+Uneseni oib se sastoji od 11 znamenki! - 19.6.2021. 14:27:50
+Input string was not in a correct format. - 20.6.2021. 0:03:16
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:04:01
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:05:18
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:06:48
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:10:46
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:11:40
+Input string was not in a correct format. - 20.6.2021. 0:11:52
+Input string was not in a correct format. - 20.6.2021. 0:13:07
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:15:48
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:16:18
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:16:43
+Krivi unos broja!
+Ponovite unos: - 20.6.2021. 0:18:16
+Input string was not in a correct format. - 20.6.2021. 0:18:36
+Input string was not in a correct format. - 20.6.2021. 0:18:54
+Pogresan odabir izbronika! - 20.6.2021. 13:08:19
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:05:41
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:08:17
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:09:00
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:09:40
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:09:57
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:10:29
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:12:31
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') - 20.6.2021. 16:13:32
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 14:43:53
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 14:59:17
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 15:00:27
+Input string was not in a correct format. - 21.6.2021. 15:12:57
+Input string was not in a correct format. - 21.6.2021. 15:16:14
+Input string was not in a correct format. - 21.6.2021. 15:16:15
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 15:17:19
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 15:20:59
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 15:24:50
+Ne postoji jos nijedan clan odabranog projekta! - 21.6.2021. 15:26:42
+Ne postoji jos nijedan clan odabranog projekta! - 22.6.2021. 14:55:43
+Input string was not in a correct format. - 23.6.2021. 21:47:28
+Pogresan odabir izbronika! - 23.6.2021. 22:36:03
+Ne postoji jos nijedan clan odabranog projekta! - 23.6.2021. 22:37:13
+Input string was not in a correct format. - 6.6.2022. 19:23:48

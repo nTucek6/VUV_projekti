@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Ime": "Karla",
+    "OIB": "50200069100",
+    "Prezime": "Majer",
+    "ProjektId": 1
+  },
+  {
+    "ProjektId": 2,
+    "Id": 2,
+    "Ime": "Filip",
+    "Prezime": "Horvat",
+    "OIB": "08975621289"
+  },
+  {
+    "ProjektId": 3,
+    "Id": 3,
+    "Ime": "Karla",
+    "Prezime": "Paskal",
+    "OIB": "26990959359"
+  },
+  {
+    "ProjektId": 3,
+    "Id": 4,
+    "Ime": "Valentin",
+    "Prezime": "Predrag",
+    "OIB": "97692246159"
+  }
+]
