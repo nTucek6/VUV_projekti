@@ -19,11 +19,13 @@ namespace VUV_projekti
 {
     class Program
     {
-        static string ProjektPath = @"C:\Users\Nikola\source\repos\VUV_projekti\VUV_projekti\Projekt.json";
-        static string ClanProjektaPath = @"C:\Users\Nikola\source\repos\VUV_projekti\VUV_projekti\ClanProjekta.json";
-        static string LokacijaPath = @"C:\Users\Nikola\source\repos\VUV_projekti\VUV_projekti\Lokacija.json";
-        static string AktivnostPath = @"C:\Users\Nikola\source\repos\VUV_projekti\VUV_projekti\Aktivnost.json";
-        static string GradoviRH = @"C:\Users\Nikola\source\repos\VUV_projekti\VUV_projekti\GradoviRH.json";
+        static string projectDirectory = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+        static string ProjektPath = projectDirectory+ @"\Projekt.json";
+        static string ClanProjektaPath = projectDirectory+@"\ClanProjekta.json";
+        static string LokacijaPath = projectDirectory+@"\Lokacija.json";
+        static string AktivnostPath = projectDirectory+@"\Aktivnost.json";
+        static string GradoviRH = projectDirectory+@"\GradoviRH.json";
+        
         static int findFirstMissing(List<int> b) //Metoda ispituje listu brojeva svih id neke lite i trazi najmanji prvi slobodan ako postoji
         {
             int r = 0;
